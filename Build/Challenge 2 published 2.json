@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Prototype 2 Februrary 3 2021",
+"dataUrl": "Challenge 2 published 2.data.unityweb",
+"wasmCodeUrl": "Challenge 2 published 2.wasm.code.unityweb",
+"wasmFrameworkUrl": "Challenge 2 published 2.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
